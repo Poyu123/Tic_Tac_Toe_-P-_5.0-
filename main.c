@@ -1,4 +1,4 @@
-# Tic_Tac_Toe_-P-_5.0-
+# Tic_Tac_Toe_-P-_5.0
 #include <stdio.h>  
 #include <conio.h>
 #include <stdbool.h> 
